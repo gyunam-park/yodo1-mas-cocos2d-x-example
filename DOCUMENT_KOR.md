@@ -12,10 +12,10 @@ MOBILE : SAMSUNG GALAXY S10+
 <br/>
 
 ## 예제 실행화면
-<img src="img/MAIN.jpg" alt="MAIN" style="width:160px;max-width:25%;"/>
-<img src="img/BANNER.jpg" alt="BANNER" style="width:160px;max-width:25%;"/>
-<img src="img/INTERSTITIAL.jpg" alt="INTERSTITIAL" style="width:160px;max-width:25%;"/>
-<img src="img/REWARDED.jpg" alt="REWARDED" style="width:160px;max-width:25%;"/>
+<img src="img/MAIN.jpg" alt="MAIN" style="width:160px;"/>
+<img src="img/BANNER.jpg" alt="BANNER" style="width:160px;"/>
+<img src="img/INTERSTITIAL.jpg" alt="INTERSTITIAL" style="width:160px;"/>
+<img src="img/REWARDED.jpg" alt="REWARDED" style="width:160px;"/>
 
 <br/>
 
